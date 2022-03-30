@@ -1,2 +1,1 @@
-content added by DEV2
-c/dev2/MyGitproject
+Content added one more by DEV2
